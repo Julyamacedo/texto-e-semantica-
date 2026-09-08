@@ -1,7 +1,44 @@
-header{
-    text-align: center;
-    color:blue
+
+body{
+      font-family: Arial, sans-serif;
+      letter-spacing: 0.3px;
+      text-decoration: none;
+      font-size: 18px;
+
+
 }
-main{
-   text-align: ;
+
+header{
+      text-align: center;
+      line-height: 1.0;
+}
+aside{
+      text-align: center;
+}
+footer{
+      text-align: center;
+
+}
+
+h1{
+      color:rgb(2, 57, 255) ;
+      text-transform: uppercase;
+      text-align: center;
+      font-size: 48px;
+      font-weight: bold;
+
+}
+h2{
+      color:rgba(0, 13, 255, 0.805);
+      text-transform: uppercase;
+      font-size: 30px;
+      font-weight: bold;
+
+}
+h3{
+      font-size: 24px;
+      font-weight: bold;
+}
+#destaque{
+      color:rgb(82, 80, 197);
 }
